@@ -3,7 +3,7 @@
 
 CS Undergrad at University of Dhaka
 
-Skills: C / C++ / Java / Python / Dart / Flutter
+Skills: C / C++ / Java / Python / Dart / Flutter / SQL / Assembly
 
 - 📫 How to reach me: snpovi4@gmail.com
 
