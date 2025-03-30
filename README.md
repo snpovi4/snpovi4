@@ -1,9 +1,9 @@
 ### Hi 👋, Shah Nawaz Parvez Here!
 #### Software Developer
 
-CS Undergrad at University of Dhaka
+CS Graduate from University of Dhaka
 
-Skills: C / C++ / Java / Python / Dart / Flutter / SQL / Assembly
+Skills: C / C++ / Java / Python / Dart / Flutter / SQL / Assembly/ Typescript/ NextJS/ ExpressJS
 
 - 📫 How to reach me: snpovi4@gmail.com
 
