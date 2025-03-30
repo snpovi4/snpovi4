@@ -3,7 +3,7 @@
 
 CS Graduate from University of Dhaka
 
-Skills: C / C++ / Java / Python / Dart / Flutter / SQL / Assembly/ Typescript/ NextJS/ ExpressJS
+Skills: C / C++ / Java / Python / Dart / Flutter / SQL / Assembly / Typescript / NextJS / ExpressJS
 
 - 📫 How to reach me: snpovi4@gmail.com
 
