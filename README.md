@@ -11,8 +11,8 @@ Skills: C / C++ / Java / Python / Dart / Flutter / SQL / Assembly / Typescript /
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shah-nawaz-parvez-511678196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-nawaz-parvez-511678196" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shahnawazparvezrahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnawazparvezrahman" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovibonjovipovisovicovid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovibonjovipovisovicovid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prvzov1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnawazparvezrahman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prvzov1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovibonjovipovisovicovid" height="30" width="40" /></a>
 </p> 
 
 ![Profile views](https://komarev.com/ghpvc/?username=snpovi4&color=ff69b4)
